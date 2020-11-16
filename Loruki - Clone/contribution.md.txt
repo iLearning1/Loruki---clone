@@ -1,0 +1,8 @@
+The Files and content are inspired by Heroku according Brad 
+Developers are welcome to;
+
+1. Fork this project
+2. Make a pull request
+3. report an issue
+4. and give a star
+
